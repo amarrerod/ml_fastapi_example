@@ -23,10 +23,10 @@ FastAPI example with ML
 * Documentation: https://ml-fastapi-example.readthedocs.io.
 
 
-Features
+Documentation
 --------
 
-* TODO
+* Example from: https://towardsdatascience.com/how-to-build-and-deploy-a-machine-learning-model-with-fastapi-64c505213857
 
 Credits
 -------
